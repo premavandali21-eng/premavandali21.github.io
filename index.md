@@ -56,7 +56,7 @@ No need for special hardware
 Designed for accessibility and inclusivity
 
 🔄 Flowchart
-https://github.com/premavandali21-eng/BIDIRECTIONAL-INDIAN-SIGN-LANGUAGE-RECOGNITION/blob/main/flowchart.png
+(https://github.com/premavandali21-eng/BIDIRECTIONAL-INDIAN-SIGN-LANGUAGE-RECOGNITION/blob/main/flowchart.png)
 
 
 🌍 Applications
@@ -92,7 +92,7 @@ def generate():
 🔗 Source Code
 
 Click here to view the project:
-https://github.com/premavandali21-eng/BIDIRECTIONAL-INDIAN-SIGN-LANGUAGE-RECOGNITION
+(https://github.com/premavandali21-eng/BIDIRECTIONAL-INDIAN-SIGN-LANGUAGE-RECOGNITION)
 
 🚀 Conclusion
 
