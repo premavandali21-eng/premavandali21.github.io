@@ -54,13 +54,10 @@ Voice input support
 User-friendly web interface
 No need for special hardware
 Designed for accessibility and inclusivity
-📊 Block Diagram
-
-(Add your block diagram image here)
 
 🔄 Flowchart
+https://github.com/premavandali21-eng/BIDIRECTIONAL-INDIAN-SIGN-LANGUAGE-RECOGNITION/blob/main/flowchart.png
 
-(Add your flowchart image here)
 
 🌍 Applications
 
@@ -95,7 +92,7 @@ def generate():
 🔗 Source Code
 
 Click here to view the project:
-👉 https://github.com/your-username/your-repo
+https://github.com/premavandali21-eng/BIDIRECTIONAL-INDIAN-SIGN-LANGUAGE-RECOGNITION
 
 🚀 Conclusion
 
